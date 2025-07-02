@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(253, 179, 218);
+    font-family: Bai jamjuree;
+}
+
+footer{
+    background-color: rgb(226, 12, 94);
+    color: aliceblue;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    min-height: 2rem;
+}
+
+footer p{
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.5rem;
+}
